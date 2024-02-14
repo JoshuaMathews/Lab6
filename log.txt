@@ -1,0 +1,205 @@
+C:\Users\itzmr\AppData\Local\Programs\Python\Python312\python.exe D:\Programming\Python\Lab6\weather.py 
+Input your city you want to get weather for: london
+Europe/London
+At 2024-02-14 18:00:00+00:00 Europe/London local time the forecast
+Temperature is 54.1f and it feels like 53.55f.
+Weather shows Rain.
+Wind is 9.46 MPH, gusts of 27.22 MPH
+
+At 2024-02-14 21:00:00+00:00 Europe/London local time the forecast
+Temperature is 53.98f and it feels like 53.44f.
+Weather shows Rain.
+Wind is 10.33 MPH, gusts of 30.31 MPH
+
+At 2024-02-15 00:00:00+00:00 Europe/London local time the forecast
+Temperature is 53.74f and it feels like 53.01f.
+Weather shows Rain.
+Wind is 8.01 MPH, gusts of 27.36 MPH
+
+At 2024-02-15 03:00:00+00:00 Europe/London local time the forecast
+Temperature is 53.58f and it feels like 52.63f.
+Weather shows Clouds.
+Wind is 8.03 MPH, gusts of 25.77 MPH
+
+At 2024-02-15 06:00:00+00:00 Europe/London local time the forecast
+Temperature is 56.62f and it feels like 55.65f.
+Weather shows Clouds.
+Wind is 8.59 MPH, gusts of 25.61 MPH
+
+At 2024-02-15 09:00:00+00:00 Europe/London local time the forecast
+Temperature is 56.98f and it feels like 55.72f.
+Weather shows Clouds.
+Wind is 8.14 MPH, gusts of 21.68 MPH
+
+At 2024-02-15 12:00:00+00:00 Europe/London local time the forecast
+Temperature is 53.17f and it feels like 52.03f.
+Weather shows Clouds.
+Wind is 7.02 MPH, gusts of 21.03 MPH
+
+At 2024-02-15 15:00:00+00:00 Europe/London local time the forecast
+Temperature is 52.11f and it feels like 51.1f.
+Weather shows Clouds.
+Wind is 4.83 MPH, gusts of 16.2 MPH
+
+At 2024-02-15 18:00:00+00:00 Europe/London local time the forecast
+Temperature is 51.31f and it feels like 50.52f.
+Weather shows Rain.
+Wind is 4.47 MPH, gusts of 16.75 MPH
+
+At 2024-02-15 21:00:00+00:00 Europe/London local time the forecast
+Temperature is 51.69f and it feels like 51.08f.
+Weather shows Rain.
+Wind is 7.63 MPH, gusts of 21.27 MPH
+
+At 2024-02-16 00:00:00+00:00 Europe/London local time the forecast
+Temperature is 50.56f and it feels like 49.68f.
+Weather shows Rain.
+Wind is 8.95 MPH, gusts of 23.49 MPH
+
+At 2024-02-16 03:00:00+00:00 Europe/London local time the forecast
+Temperature is 49.14f and it feels like 44.98f.
+Weather shows Clouds.
+Wind is 9.98 MPH, gusts of 24.45 MPH
+
+At 2024-02-16 06:00:00+00:00 Europe/London local time the forecast
+Temperature is 52.25f and it feels like 50.41f.
+Weather shows Clouds.
+Wind is 11.34 MPH, gusts of 21.52 MPH
+
+At 2024-02-16 09:00:00+00:00 Europe/London local time the forecast
+Temperature is 54.82f and it feels like 53.35f.
+Weather shows Rain.
+Wind is 11.54 MPH, gusts of 21.92 MPH
+
+At 2024-02-16 12:00:00+00:00 Europe/London local time the forecast
+Temperature is 51.58f and it feels like 50.29f.
+Weather shows Clouds.
+Wind is 8.59 MPH, gusts of 21.21 MPH
+
+At 2024-02-16 15:00:00+00:00 Europe/London local time the forecast
+Temperature is 50.85f and it feels like 49.59f.
+Weather shows Clouds.
+Wind is 8.34 MPH, gusts of 18.1 MPH
+
+At 2024-02-16 18:00:00+00:00 Europe/London local time the forecast
+Temperature is 48.29f and it feels like 46.27f.
+Weather shows Clouds.
+Wind is 4.9 MPH, gusts of 13.35 MPH
+
+At 2024-02-16 21:00:00+00:00 Europe/London local time the forecast
+Temperature is 46.17f and it feels like 44.6f.
+Weather shows Clear.
+Wind is 3.8 MPH, gusts of 10.02 MPH
+
+At 2024-02-17 00:00:00+00:00 Europe/London local time the forecast
+Temperature is 44.83f and it feels like 43.59f.
+Weather shows Clear.
+Wind is 3.24 MPH, gusts of 5.66 MPH
+
+At 2024-02-17 03:00:00+00:00 Europe/London local time the forecast
+Temperature is 46.89f and it feels like 46.17f.
+Weather shows Clear.
+Wind is 3 MPH, gusts of 4.81 MPH
+
+At 2024-02-17 06:00:00+00:00 Europe/London local time the forecast
+Temperature is 52.84f and it feels like 51.03f.
+Weather shows Clouds.
+Wind is 5.93 MPH, gusts of 9.46 MPH
+
+At 2024-02-17 09:00:00+00:00 Europe/London local time the forecast
+Temperature is 54.55f and it feels like 52.9f.
+Weather shows Clouds.
+Wind is 6.89 MPH, gusts of 11.72 MPH
+
+At 2024-02-17 12:00:00+00:00 Europe/London local time the forecast
+Temperature is 51.33f and it feels like 50.16f.
+Weather shows Clouds.
+Wind is 6.49 MPH, gusts of 17.25 MPH
+
+At 2024-02-17 15:00:00+00:00 Europe/London local time the forecast
+Temperature is 49.73f and it feels like 46.49f.
+Weather shows Clouds.
+Wind is 7.87 MPH, gusts of 23.33 MPH
+
+At 2024-02-17 18:00:00+00:00 Europe/London local time the forecast
+Temperature is 50.45f and it feels like 48.9f.
+Weather shows Clouds.
+Wind is 9.8 MPH, gusts of 26.06 MPH
+
+At 2024-02-17 21:00:00+00:00 Europe/London local time the forecast
+Temperature is 50.16f and it feels like 48.78f.
+Weather shows Rain.
+Wind is 12.53 MPH, gusts of 29.82 MPH
+
+At 2024-02-18 00:00:00+00:00 Europe/London local time the forecast
+Temperature is 48.78f and it feels like 43.25f.
+Weather shows Rain.
+Wind is 14.29 MPH, gusts of 32.64 MPH
+
+At 2024-02-18 03:00:00+00:00 Europe/London local time the forecast
+Temperature is 48.74f and it feels like 43.99f.
+Weather shows Rain.
+Wind is 11.5 MPH, gusts of 26.89 MPH
+
+At 2024-02-18 06:00:00+00:00 Europe/London local time the forecast
+Temperature is 52f and it feels like 51.13f.
+Weather shows Rain.
+Wind is 8.55 MPH, gusts of 21.16 MPH
+
+At 2024-02-18 09:00:00+00:00 Europe/London local time the forecast
+Temperature is 52.5f and it feels like 51.4f.
+Weather shows Clouds.
+Wind is 7.99 MPH, gusts of 21.85 MPH
+
+At 2024-02-18 12:00:00+00:00 Europe/London local time the forecast
+Temperature is 49.8f and it feels like 48.18f.
+Weather shows Clouds.
+Wind is 4.68 MPH, gusts of 12.62 MPH
+
+At 2024-02-18 15:00:00+00:00 Europe/London local time the forecast
+Temperature is 47.61f and it feels like 45.21f.
+Weather shows Clear.
+Wind is 5.3 MPH, gusts of 17.85 MPH
+
+At 2024-02-18 18:00:00+00:00 Europe/London local time the forecast
+Temperature is 45.84f and it feels like 44.24f.
+Weather shows Clear.
+Wind is 3.78 MPH, gusts of 6.67 MPH
+
+At 2024-02-18 21:00:00+00:00 Europe/London local time the forecast
+Temperature is 44.6f and it feels like 41.72f.
+Weather shows Clouds.
+Wind is 5.23 MPH, gusts of 14.58 MPH
+
+At 2024-02-19 00:00:00+00:00 Europe/London local time the forecast
+Temperature is 44.22f and it feels like 41.38f.
+Weather shows Clouds.
+Wind is 5.08 MPH, gusts of 14.52 MPH
+
+At 2024-02-19 03:00:00+00:00 Europe/London local time the forecast
+Temperature is 46.63f and it feels like 43.9f.
+Weather shows Clouds.
+Wind is 5.59 MPH, gusts of 18.75 MPH
+
+At 2024-02-19 06:00:00+00:00 Europe/London local time the forecast
+Temperature is 51.73f and it feels like 50.22f.
+Weather shows Clouds.
+Wind is 10.4 MPH, gusts of 18.84 MPH
+
+At 2024-02-19 09:00:00+00:00 Europe/London local time the forecast
+Temperature is 50.85f and it feels like 49.21f.
+Weather shows Rain.
+Wind is 9.91 MPH, gusts of 21.07 MPH
+
+At 2024-02-19 12:00:00+00:00 Europe/London local time the forecast
+Temperature is 48.52f and it feels like 45.59f.
+Weather shows Clouds.
+Wind is 6.62 MPH, gusts of 19.55 MPH
+
+At 2024-02-19 15:00:00+00:00 Europe/London local time the forecast
+Temperature is 45.93f and it feels like 42.21f.
+Weather shows Clear.
+Wind is 7.16 MPH, gusts of 21.03 MPH
+
+
+Process finished with exit code 0
