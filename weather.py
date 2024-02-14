@@ -1,14 +1,20 @@
 import os
 import requests
 from datetime import datetime
+
+# This package is a OFFLINE solution for converting longitude latitude into timezones.
 from timezonefinder import TimezoneFinder
+
+# This package is used for converting timezones and handles daylight savings.
 from pytz import timezone
 
 tf = TimezoneFinder()
+
+# Grab key from env variables.
 api_key = os.environ.get('WEATHER_KEY')
 
-assert api_key is not None
 # raises an error if environment variable is not set
+assert api_key is not None
 
 
 def main():
@@ -31,7 +37,6 @@ def main():
 
     tz_target = timezone(time_zone)
 
-    print(tz_target)
     for forecast in data['list']:
         # Why do UTC or local time when you can show it in the city's timezone?
         print(f'At {tz_target.localize(datetime.fromtimestamp(forecast['dt']))} {time_zone} local time the forecast')
@@ -42,12 +47,24 @@ def main():
 
 
 def get_city():
+    '''
+    Gets city from user's input.
+    '''
     city = input('Input your city you want to get weather for: ')
+
+    if not city or len(city) == 0 or not isinstance(city, str):
+        print("Input correct city please.")
+        return get_city()
+
     return city.capitalize()
 
 
 def get_geo_data(city):
-
+    '''
+    Converts user inputted city into longitude latitude coordinates
+    :param city: User's City.
+    :return:
+    '''
     params = {'q': city, 'limit': '1', 'APPID': api_key}
     url = 'http://api.openweathermap.org/geo/1.0/direct'
     data = handle_request(url, params)
@@ -63,6 +80,12 @@ def get_geo_data(city):
 
 
 def handle_request(url, params):
+    '''
+    Manages error handling for our requests.
+    :param url: API URL
+    :param params: API parameters
+    :return: json if successful or None if not.
+    '''
     response = requests.get(url, params)
 
     if response.status_code == 200:
